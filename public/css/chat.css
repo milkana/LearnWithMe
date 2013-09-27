@@ -1,0 +1,17 @@
+
+.message
+{
+    padding: 5px 5px 5px 5px;
+}
+.username
+{
+    font-weight: strong;
+    color: #0f0;
+}
+.msgContainerDiv
+{
+    overflow-y: scroll;
+    height: 250px;
+}
+
+
